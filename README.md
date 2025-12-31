@@ -4,6 +4,8 @@ I am a certified Cybersecurity enthusiast with a strong foundation in Networking
 🎓 Professional Certifications
 🌐 Cisco Networking Academy
 
+### 🎖️ International Professional Memberships
+* **ISC2 Candidate** – Part of the global community of cybersecurity professionals, currently preparing for the **Certified in Cybersecurity (CC)** certification.
     Ethical Hacker – Methodological Pentesting, Vulnerability Scanning, and Application Security
     Network Defense – Firewall Configuration, PKI, and Endpoint Security
     Junior Cybersecurity Analyst Career Path – Threat Mitigation, Risk Assessment, and Incident Response
