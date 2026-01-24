@@ -30,6 +30,17 @@ Currently sharpening my offensive security skills on **Hack The Box**.
   - Tier 1: 20% Completed 🛡️
 * Focus: Learning the fundamentals of penetration testing and machine exploitation.
 
+## 📁 Projects & Hands-on Labs
+
+### 🛠️ Cisco Networking Practical Labs
+I have completed a series of network infrastructure labs focusing on security and connectivity.
+* **Lab 01: Secure Router Configuration** - Implementing basic device hardening and secure access.
+* **Lab 02: Network Segmentation (VLANs)** - Organizing network traffic to enhance security and reduce broadcast domains.
+* **Lab 03: Inter-VLAN Routing** - Configuring Router-on-a-Stick with 802.1Q encapsulation for cross-VLAN communication.
+* **Lab 04: DHCP Server Implementation** - Automating IP management with secure address exclusions.
+
+*(Check out the full configurations in my [Networking Repository](https://github.com/anushkaweerakkodi/Networking-PacketTracer))*
+
 ## 📁 Projects & CTF Write-ups
 *(Coming Soon: Detailed walkthroughs of retired HackTheBox machines)*
 
