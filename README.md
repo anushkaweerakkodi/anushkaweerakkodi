@@ -38,6 +38,7 @@ I have completed a series of network infrastructure labs focusing on security an
 * **Lab 02: Network Segmentation (VLANs)** - Organizing network traffic to enhance security and reduce broadcast domains.
 * **Lab 03: Inter-VLAN Routing** - Configuring Router-on-a-Stick with 802.1Q encapsulation for cross-VLAN communication.
 * **Lab 04: DHCP Server Implementation** - Automating IP management with secure address exclusions.
+* **Lab 05: Secure Wireless LAN (WLAN)- Configuring a Wireless Router with WPA2-PSK security and managing SSID broadcasting to secure endpoint connections (Laptops/Smartphones).
 
 *(Check out the full configurations in my [Networking Repository](https://github.com/anushkaweerakkodi/Networking-PacketTracer))*
 
