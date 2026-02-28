@@ -39,7 +39,7 @@ This project demonstrates a systematic approach to identifying and exploiting vu
 
         Scanning: Used Nmap to identify the vulnerable service version.
 
-        Exploitation: Leveraged Metasploit Framework to gain a root shell through the vsftpd 2.3.4 backdoor                   vulnerability.
+        Exploitation: Leveraged Metasploit Framework to gain a root shell through the vsftpd 2.3.4 backdoor  vulnerability.
 
         Post-Exploitation: Verified root privileges and explored the target file system.
         
