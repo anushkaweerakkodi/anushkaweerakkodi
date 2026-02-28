@@ -35,15 +35,15 @@ Currently sharpening my offensive security skills on **Hack The Box**.
 ### 🛠️ Metasploitable 2 Penetration Testing Lab
 This project demonstrates a systematic approach to identifying and exploiting vulnerabilities in a controlled environment.
 
-    Lab 01: VSFTPD v2.3.4 Backdoor Exploitation
+   Lab 01: VSFTPD v2.3.4 Backdoor Exploitation
 
         Scanning: Used Nmap to identify the vulnerable service version.
 
-        Exploitation: Leveraged Metasploit Framework to gain a root shell through the vsftpd 2.3.4 backdoor vulnerability.
+        Exploitation: Leveraged Metasploit Framework to gain a root shell through the vsftpd 2.3.4 backdoor                   vulnerability.
 
         Post-Exploitation: Verified root privileges and explored the target file system.
+        
 
-        *(Check out the Full Walkthrough [Metasploitable2-Penetration-Testing-LAB-] (https://github.com/anushkaweerakkodi/Metasploitable2-Penetration-Testing-LAB-))*
 
 ## 📁 Projects & Hands-on Labs
 
