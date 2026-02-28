@@ -30,6 +30,21 @@ Currently sharpening my offensive security skills on **Hack The Box**.
   - Tier 1: 20% Completed 🛡️
 * Focus: Learning the fundamentals of penetration testing and machine exploitation.
 
+## 📂 Projects & Hands-on Labs (Exploitation)
+
+### 🛠️ Metasploitable 2 Penetration Testing Lab
+This project demonstrates a systematic approach to identifying and exploiting vulnerabilities in a controlled environment.
+
+    Lab 01: VSFTPD v2.3.4 Backdoor Exploitation
+
+        Scanning: Used Nmap to identify the vulnerable service version.
+
+        Exploitation: Leveraged Metasploit Framework to gain a root shell through the vsftpd 2.3.4 backdoor vulnerability.
+
+        Post-Exploitation: Verified root privileges and explored the target file system.
+
+        (Full Walkthrough: Metasploitable2-Penetration-Testing-LAB-)
+
 ## 📁 Projects & Hands-on Labs
 
 ### 🛠️ Cisco Networking Practical Labs
@@ -43,8 +58,6 @@ I have completed a series of network infrastructure labs focusing on security an
 
 *(Check out the full configurations in my [Networking Repository](https://github.com/anushkaweerakkodi/Networking-PacketTracer))*
 
-## 📁 Projects & CTF Write-ups
-*(Coming Soon: Detailed walkthroughs of retired HackTheBox machines)*
 
 ## 🎯 Current Learning Goals
 - [ ] Completing TryHackMe Offensive Pentesting Path
