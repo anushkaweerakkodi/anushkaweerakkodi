@@ -43,7 +43,7 @@ This project demonstrates a systematic approach to identifying and exploiting vu
 
         Post-Exploitation: Verified root privileges and explored the target file system.
 
-        (Full Walkthrough: Metasploitable2-Penetration-Testing-LAB-)
+        *(Check out the Full Walkthrough [Metasploitable2-Penetration-Testing-LAB-] (https://github.com/anushkaweerakkodi/Metasploitable2-Penetration-Testing-LAB-))*
 
 ## 📁 Projects & Hands-on Labs
 
